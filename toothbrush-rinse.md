@@ -7,5 +7,6 @@
 3. I like cinnamon toothpaste.
 
 - [ ] Checklist item!
-- [ ] Checklist item! 
+- [ ] Checklist item!
 - [ ] :bowtie:
+- [ ] Don't forget to floss. :wink:
